@@ -1,0 +1,57 @@
+html, body
+{
+    font-family: "IBMPlexSans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    height: 100%;
+    /* overflow-y: hidden; */
+    /* background-color: #e8e8e8; */
+}
+
+.login-background
+{
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+.login-logo
+{
+    height: 80%;
+    width: 28%;
+    border-right: solid 2px;
+    border-right-color:  rgb(161, 161, 161);
+}
+
+.login-container
+{
+    margin-top: 15%;
+}
+
+.login-container-form
+{
+    /* position: fixed; */
+    /* margin-left: 10%;
+    margin-top: 1%; */
+    height: 30%;
+    width: 40%;
+    /* border: solid 2px;
+    border-radius: 35px;
+    border-color:  rgb(112, 112, 112); */
+}
+
+.login-form-div
+{
+    margin-top: 4%;
+}
+
+.login-submit
+{
+    border-color: black;
+    border-width: 1px;
+    border-radius: 10px;
+    margin-top: 2%;
+    background-color: none;
+}
+
+.login-submit:hover
+{
+    background-color: white;
+}

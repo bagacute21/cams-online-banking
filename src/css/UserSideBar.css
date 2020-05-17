@@ -1,0 +1,53 @@
+.navbar
+{
+    height: 91.1%;
+    width: 250px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: white;
+    border-right: solid 3px;
+    border-color: #E6E6E6;
+}
+
+.sidebar-logo
+{
+    height: 25%;
+    width: 100%;
+    margin-top: -40%;
+    margin-left: -2%;
+}
+
+.navbar-nav
+{
+    margin-left: 5%;
+    margin-top: -90%;
+}
+
+.nav-item
+{
+    margin-top: 5%;
+}
+
+.sidebar-icon
+{
+    margin-right: 10px;
+    font-size: 15px;
+}
+
+.sidebar-link
+{
+    color: #525252;
+    font-size: 20px;
+}
+
+.sidebar-link:hover
+{
+    color: #D2D1CF;
+    text-decoration: none;
+}
+
+.active
+{
+    color: #D2D1CF;
+}

@@ -1,0 +1,18 @@
+ tr>.no-line {
+     border-top: none;
+     border-bottom: none;
+ }
+ 
+ tr>.thick-line {
+     border-top: 2px solid;
+ }
+ 
+ .col {
+     margin: 20px;
+ }
+
+ .summary-div
+ {
+     padding-top: 1%;
+     padding-bottom: 3%;
+ }

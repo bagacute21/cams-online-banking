@@ -1,0 +1,80 @@
+.header-div
+{
+    z-index: 1;
+    background-color: #005A92;
+    height: 55px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    margin: auto;
+    border-bottom: solid 3px;
+    border-color: #E6E6E6;
+}
+
+.header-div p
+{
+    margin-top: 1%;
+    text-align: center;
+    color: rgb(161, 161, 161);
+}
+
+.header-ibm
+{
+    /* position: fixed; */
+    margin-left: 1.5%;
+    margin-top: 1%;
+}
+
+.header-div-logo
+{
+    position: fixed;
+    height: 4%;
+    width: 4.8%;
+}
+
+.header-menubar
+{
+    top: 0;
+    height: inherit ;
+    border-right: solid 1px;
+    border-left: solid 1px;
+    border-color: rgb(161, 161, 161);
+    padding: 1%;
+    position: fixed;
+    margin-top: 0.1%;
+    color: white;
+}
+
+.header-profile
+{
+    margin-left: 86.35%;    
+}
+
+.header-logout
+{
+    margin-left: 90%;
+}
+
+.header-menubar:hover
+{
+    color: black;
+    background-color: rgb(1, 120, 194);
+}
+
+.header-ibm-title
+{
+    color: white;
+    font-family: 'Manjari', sans-serif;
+    margin-top: -0.5%;
+}
+
+.header-username
+{
+    top: 0;
+    height: inherit ;
+    margin-left: 50%;
+    padding: 1%;
+    position: fixed;
+    margin-top: 0.1%;
+}

@@ -1,0 +1,18 @@
+.footer-div
+{
+    background-color: rgb(43, 43, 43);
+    height: 35px;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    margin: auto;
+    z-index: 1;
+}
+
+.footer-div p
+{
+    margin-top: 0.7%;
+    font-size: 12px;
+    text-align: center;
+    color: rgb(161, 161, 161);
+}
